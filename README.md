@@ -1,1 +1,1 @@
-![rickroll](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FWCwFvyeb6WJna%2Fgiphy.gif&f=1&nofb=1)
+[![rickroll](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
